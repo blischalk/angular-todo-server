@@ -12,6 +12,7 @@ gem 'rack-cors', :require => 'rack/cors'
 group :development do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
+  gem 'pry'
 end
 
 
